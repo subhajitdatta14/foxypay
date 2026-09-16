@@ -1,0 +1,6 @@
+{
+  "name": "Unique Checkout Animation",
+  "description": "Interactive retro-futuristic checkout terminal with multi-method payment flows, living receipt, and transaction history analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
