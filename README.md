@@ -140,10 +140,6 @@ Engineered from the ground up for seamless interaction across all viewports:
 
 ---
 
-<div align="center">
 
-Crafted with ⚡ by the **FOXY PAY Team**
-
-*Bringing real physical satisfaction back to digital interactions.*
 
 </div>
